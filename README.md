@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Dalk21
-- 👀 I’m interested in making nodejs projects
-- 🌱 I’m currently learning nodejs, python, lua
+- 👀 I’m interested in making LuaU scripts
+- 🌱 I’m currently learning nodejs, luau
 - 💞️ I’m looking to collaborate on nothing
-- 📫 Reach me via discord @ Dalks#0001
+- 📫 Reach me via discord @ platinum#6969
 
 <!---
 Dalk21/Dalk21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
