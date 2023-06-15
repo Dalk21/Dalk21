@@ -7,7 +7,7 @@
 - 👀 I’m interested in making discord bots / random stuff that involves APIs (i love APIs)
 - 🌱 I’m currently learning NodeJS, LuaU, JSON (if you count that), and Java
 - 💞️ I’m looking to collaborate on pretty much nothing as of now
-- 📫 Reach me via discord @Dalk#0001
+- 📫 Reach me via discord @dalked
 
 <!---
 Dalk21/Dalk21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
