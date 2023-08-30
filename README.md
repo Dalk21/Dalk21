@@ -1,4 +1,9 @@
 # i code things sometimes
+check out my website\
+[dalk.xyz](https://dalk.xyz)\
+\
+projects im working on:\
+[dalk.lol](https://dalk.lol)\
 
 ## domains owned by me and [@shidemuri](https://github.com/shidemuri)
 - https://paderos-neko.store (use: paderos main website)
