@@ -1,13 +1,21 @@
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dalk21&title_color=ffffff&text_color=ffffff&bg_color=222222"/><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Dalk21&&show_icons=true&title_color=ffffff&icon_color=ff9900&text_color=ffffff&bg_color=222222"/>
-</p>
+# i code things sometimes
 
-- 👋 Hi, I’m @Dalk21
-- 👀 I’m interested in making discord bots / random stuff that involves APIs (i love APIs)
-- 🌱 I’m currently learning NodeJS, LuaU, JSON (if you count that), and Java
-- 💞️ I’m looking to collaborate on pretty much nothing as of now
-- 📫 Reach me via discord @dalked
-
-<!---
-Dalk21/Dalk21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## domains owned by me and [@shidemuri](https://github.com/shidemuri)
+- https://paderos-neko.store (use: paderos main website)
+- https://paderos-neko.shop (use: paderos main website other domain)
+- https://paderos.shop (unused rn)
+- https://dalks.shop (use: my main website)
+- https://the-weather.xyz (use: my weather website)
+- https://download-yt.xyz (use: my download yt website)
+- https://filehost.shop (use: alternative to host.paderos-neko.store and link shortener)
+- https://jizzcord.shop (use: alternative url to daero.shop)
+- https://daero.shop (use: dalk & padero chat app)
+- https://petsim.xyz (use: my pet simulator website)
+- https://psxsecrets.xyz (use: my pet simulator website alternative url)
+- https://dalks.xyz (use: my main website alternative url)
+- https://ridergames.shop (use: my roblox dev studio)
+- https://dalk.xyz (use: my main website alternative url 2)
+- https://dalk.lol (use: my main website alternative url 3/dalk side projects)
+- https://padero.cfd (use: padero other domain that dalk bought)
+- https://fairlyshort.link (use: working on url shortener again hopefully)\
+i am pays for all of these + their hosting (padero does not have money)
