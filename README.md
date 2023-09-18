@@ -1,8 +1,5 @@
 # i code things sometimes
-check out my website\
-[dalk.xyz](https://dalk.xyz)\
-\
-projects im working on:\
+check out my website:\
 [dalk.lol](https://dalk.lol)
 
 ## domains owned by me and [@shidemuri](https://github.com/shidemuri)
