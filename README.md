@@ -1,6 +1,4 @@
-# welcome
-hi y'all, i'm dalked.\
-i like to work on projects sometimes.\
-i primarily work in javascript and python (i am not a good programmer)\
-check out my website: https://dalk.xyz \
-most of the projects on here are weather related, but occasionally i'll work on other things.
+# Hey there, I'm Dalked!
+I work on some projects in my free time, and if I think they're good enough, I'll put them here!\
+I work in Python, Java, Lua, and JS.\
+Thanks for checking out my profile.
